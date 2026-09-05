@@ -1,0 +1,20 @@
+.box {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+}
+.box img {
+    display: block;
+    margin: auto;
+}
+#game-name, #game-dev {
+    text-align: center;
+}
+.info-row {
+    display: flex;
+    justify-content: space-between;
+}
+#game-descript {
+    text-align: justify;
+    line-height: 1.6;
+}

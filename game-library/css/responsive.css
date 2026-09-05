@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+    #game-list {
+        grid-template-columns: 1fr;
+    }
+    .info-row {
+        flex-direction: column;
+        gap: 10px;
+        text-align: center;
+    }
+}
